@@ -2,6 +2,7 @@
 ## Features
 - 基本的なハンドラのテスト
 - HTTPリクエストの内容を解析し、いい感じのレスポンスを返す
+- 対象HTTPメソッドはGET、POST、PATCH、DELETE
 
 ## Requirements
 - gorilla/mux@1.8.0
