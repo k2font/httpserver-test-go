@@ -9,3 +9,5 @@
 
 ## Usage
 - `$ go run path/to/main.go`
+- http://localhost/workspace/testworkspace/user/k2font などにアクセスすると、以下のようなメッセージを出力します。
+  - `あなたの所属ワークスペース名は testworkspace で、あなたは k2font さんです。`
